@@ -1,4 +1,4 @@
-import  Exame  from './exam.mjs'
+import  {Exame}  from './exam.js'
 
 const pesos = {
     q1: 2,
